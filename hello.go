@@ -1,8 +1,6 @@
 package hello
 
-import (
-    "fmt"
-)
+import "fmt"
 
 func hello() {
     // Get a greeting message and print it.
