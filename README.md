@@ -1,3 +1,4 @@
+# simple go mod demo and calling module from another go code
 # go-demo
 
 # from hello dir
