@@ -1,7 +1,7 @@
-
+package greetings
 import "fmt"
 
-func greetings() {
+func Hello() {
     // Get a greeting message and print it.
     
     fmt.Println("Hey From Github")
